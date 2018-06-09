@@ -1,5 +1,7 @@
 # React Weather App
 
+![react-weather-app](https://user-images.githubusercontent.com/11607839/41190647-cc9a9d54-6c00-11e8-8513-9bff95555284.png)
+
 ## Setup
 
 Clone the project, install the dependencies, and run the project.
